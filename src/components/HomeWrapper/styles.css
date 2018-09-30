@@ -3,3 +3,24 @@
   flex: 1 1 auto;
   height: 100vh;
 }
+
+.left-half-home-tiles {
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+  height: 100vh;
+}
+.left-half-home-tiles-top {
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+}
+.left-half-home-tiles-bottom {
+  display: flex;
+  flex-direction: row;
+  height: 50vh;
+}
+.right-half-home-tiles {
+  width: 50vw;
+  height: 100vh;
+}

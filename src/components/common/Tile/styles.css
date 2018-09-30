@@ -1,0 +1,7 @@
+.tile-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  border: solid 0.1px black;
+}
